@@ -1,4 +1,6 @@
 # 图片压缩工具 v1.0
+## news
+- `[2026/1]`发布exe文件，方便不懂python的用户使用-[下载链接](https://github.com/qianx77/image_compress/releases/tag/1.0.0)    
 ## 功能
 - 图片压缩（质量、尺寸、比例三种模式），推荐直接按照质量压缩
 - EXIF信息编辑（创作者、拍摄时间、GPS位置）
